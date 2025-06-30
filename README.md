@@ -1,6 +1,7 @@
 <p align="center">
  <img width="100px" src="https://raw.githubusercontent.com/owlCoder/cache-memory/main/screenshots/cml-logo.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Cache Memory 3.3.1</h2>
+ <h2 align="center">Projekat iz Predmeta "ELEMENTI RAZVOJA SOFTVER" koji se slusa u TRECOJ godini.</h2>
  <p align="center">Aplikacija prikuplja podatke od korisnika o trenutnoj potrošnji toplotne energije
                     ili o potrošnji u nekom od prethodnih perioda.</p>
 </p>
